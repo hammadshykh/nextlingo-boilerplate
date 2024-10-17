@@ -1,0 +1,17 @@
+{
+  "Index": {
+    "title": "Welcome to our internationalized app!",
+    "description": "This is a sample application demonstrating internationalization in Next.js 14."
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "LanguageSwitcher": {
+    "label": "Change language",
+    "en": "English",
+    "fr": "Français",
+    "es": "Español"
+  }
+}
